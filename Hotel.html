@@ -8,7 +8,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
-    <script src="/public/js/sweetalert.js"></script>
     <style>
         /* Reset dan Variabel */
         :root {
@@ -1577,7 +1576,8 @@
             </form>
         </div>
     </div>
-    <script> // Import the necessary Firebase modules
+<script> 
+    // Import the necessary Firebase modules
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.5.0/firebase-app.js";
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/11.5.0/firebase-auth.js";
 import { getFirestore, doc, getDoc, updateDoc, setDoc } from "https://www.gstatic.com/firebasejs/11.5.0/firebase-firestore.js";
@@ -2069,7 +2069,6 @@ function handleAuthError(error) {
   }
   showMessage(errorMessage, 'error');
 }
-    </script>
+</script>
 </body>
-
 </html>
