@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot AI | D' Hotel</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0" />
+</head>
+<body>
+    <!-- Chatbot Icon to Open Chat -->
+    <button id="chat-icon" class="chat-icon">
+        <span class="material-symbols-rounded">chat</span>
+    </button>
+
+    <div class="ChatBot-popup" id="chatbot-popup">
+        <!-- Chatbot Header -->
+        <div class="Chat-header">
+            <div class="header-info">
+                <span class="Chatbot-logo material-symbols-rounded">support_agent</span>
+                <h2 class="logo-text">BaBu D' Hotel</h2>
+            </div>
+            <button id="close-chatbot" class="material-symbols-rounded">close</button>
+        </div>
+        
+        <!-- Chatbot Body -->
+        <div class="chat-body" id="chat-body">
+            <div class="message bot-message">
+                <span class="bot-avatar material-symbols-rounded">support_agent</span>
+                <div class="message-text">Halo! Selamat datang di D' Hotel. Ada yang bisa saya bantu?</div>
+            </div>
+            <div class="message bot-message">
+                <span class="bot-avatar material-symbols-rounded">support_agent</span>
+                <div class="message-text">
+                    Anda dapat bertanya tentang:
+                    <ul class="quick-questions">
+                        <li class="question-option">Informasi kamar</li>
+                        <li class="question-option">Fasilitas hotel</li>
+                        <li class="question-option">Cara reservasi</li>
+                        <li class="question-option">Lokasi hotel</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chatbot Footer -->
+        <div class="chat-footer">
+            <form action="#" class="chat-form" id="chat-form">
+                <textarea placeholder="Ketik pesan Anda di sini..." class="message-input" id="message-input" required></textarea>
+                <div class="chat-controls">
+                    <button type="button" id="emoji-button" class="material-symbols-rounded">
+                        sentiment_satisfied
+                    </button>
+                    <button type="submit" id="send-message" class="material-symbols-rounded">
+                        send
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
