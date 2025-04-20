@@ -39,9 +39,13 @@ Clone repositori ini
 Input Konfigurasi Firebase
 
 📂 Struktur Folder
+
 bash
+
 Salin
+
 Edit
+
 /hotel-project
 │
 ├── css/
