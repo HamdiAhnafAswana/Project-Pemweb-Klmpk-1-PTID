@@ -57,13 +57,21 @@ Salin
 Edit
 
 /hotel-project
+
 │
+
 ├── css/
+
 ├── js/
+
 ├── img/
+
 ├── admin/
+
 ├── user/
+
 ├── index.html
+
 ├── ...
 
 ## 📣 Catatan
