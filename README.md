@@ -1,5 +1,5 @@
 ## 🌐 Project Website Pemesanan Hotel – Kelompok 1 PTI D
-## 📌 Deskripsi Proyek
+## 📌 Deskripsi Project
 Proyek ini merupakan hasil tugas akhir mata kuliah Pemrograman Web, yang dikembangkan oleh Kelompok 1 PTI D. Sistem ini dirancang untuk mempermudah proses pemesanan kamar Hotel secara online, mulai dari pencarian kamar, pemesanan, hingga konfirmasi pembayaran.
 
 Website ini dibuat menggunakan kombinasi teknologi HTML, CSS, JavaScript, dan Firebase sebagai basis datanya.
