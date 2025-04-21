@@ -77,3 +77,5 @@ Edit
 ## 📣 Catatan
 
 Proyek ini dikembangkan untuk keperluan pembelajaran dan sebagai syarat penilaian akhir pada mata kuliah Pemrograman Web. Seluruh fitur masih dalam pengembangan dan dapat terus diperbarui.
+
+https://pendidikan-ti.ft.unesa.ac.id/
