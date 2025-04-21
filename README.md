@@ -1,81 +1,70 @@
-## 🌐 Project Website Pemesanan Hotel – Kelompok 1 PTI D
-## 📌 Deskripsi Project
-Proyek ini merupakan hasil tugas akhir mata kuliah Pemrograman Web, yang dikembangkan oleh Kelompok 1 PTI D. Sistem ini dirancang untuk mempermudah proses pemesanan kamar Hotel secara online, mulai dari pencarian kamar, pemesanan, hingga konfirmasi pembayaran.
+## 🌐 Deskripsi Website
+D’Hotel Website merupakan platform digital untuk reservasi kamar hotel yang dirancang untuk memberikan pengalaman pemesanan yang cepat, nyaman, dan efisien. Website ini memungkinkan pengguna untuk mencari kamar, melihat fasilitas, memesan kamar, hingga melakukan pembayaran—all in one place. Website ini dikembangkan sebagai bagian dari tugas akhir mata kuliah Pemrograman Web oleh Kelompok 1 PTI D, Universitas Negeri Surabaya.
 
-Website ini dibuat menggunakan kombinasi teknologi HTML, CSS, JavaScript, dan Firebase sebagai basis datanya.
+Dengan desain antarmuka yang elegan dan user-friendly, serta integrasi teknologi terkini seperti HTML, CSS, JavaScript, dan Firebase, website ini tidak hanya menjadi sarana pemesanan kamar, tapi juga sebagai representasi digital dari pelayanan hotel modern.
 
-## 👨‍💻 Fitur Utama
-Halaman utama dengan informasi Hotel
+## 📌 Tujuan Pengembangan
+Website ini dikembangkan dengan beberapa tujuan utama, antara lain:
 
-Pencarian dan pemilihan kamar
+Digitalisasi Layanan Hotel – Menghadirkan platform online untuk mempermudah proses reservasi tanpa harus datang langsung ke hotel.
 
-Form pemesanan kamar
+Meningkatkan Efisiensi – Memotong waktu proses pemesanan dan pembayaran.
 
-Message Hotel
+Aksesibilitas – Memberikan layanan reservasi hotel 24/7 yang bisa diakses dari mana saja.
 
-ChatBot
+Kepuasan Pengguna – Memberikan pengalaman user yang praktis dan informatif.
 
-Profil User
+Sebagai Proyek Pembelajaran – Sebagai implementasi nyata pembelajaran mata kuliah Pemrograman Web.
 
-Sistem login & registrasi pengguna (Customer & Admin)
+## ⚙ Fitur Website
+Berikut adalah fitur-fitur utama yang disediakan dalam sistem:
 
-Dashboard admin untuk mengelola data kamar & pemesanan
+Halaman Utama – Menyajikan informasi umum tentang hotel, fasilitas unggulan, dan harga.
 
-Metode Pembayaran
+Pemilihan Kamar – Pengguna dapat memilih kamar.
 
-Konfirmasi dan riwayat pemesanan
+Form Pemesanan Kamar – Formulir yang mudah diisi untuk memesan kamar secara cepat.
 
-## 🧑‍🤝‍🧑 Anggota Kelompok 1
+Sistem Login & Registrasi – Untuk keamanan dan manajemen data, tersedia login untuk customer dan admin.
 
-[Hamdi Ahnaf Aswana-23050974148] – Frontend Developer
+Dashboard Admin – Admin dapat mengelola data kamar, pesanan, dan pengguna melalui dashboard khusus.
 
-[Achileus Danatha B-23050974122] – Backend Developer
+ChatBot & Message Hotel – Pengguna dapat menghubungi pihak hotel atau mendapatkan bantuan otomatis dari chatbot.
 
-[Muhammad Angga Pratama-23050974128] – Database Administrator
+Profil Pengguna – Pengguna dapat mengatur informasi pribadi mereka secara langsung di akun masing-masing.
 
-[Refiansyah Galuh Ridha Pratama-23050974120] – Dokumentasi & Testing
+Konfirmasi & Riwayat Pemesanan – Menyediakan riwayat transaksi dan detail konfirmasi pemesanan.
 
+Metode Pembayaran – Menyediakan berbagai opsi pembayaran untuk kenyamanan pengguna.
 
-## 📸 Screenshots
-![Screenshot 2025-04-14 074744](https://github.com/user-attachments/assets/4c90c678-74f7-4998-b466-318e387dc27c)
-![Screenshot 2025-04-14 075154](https://github.com/user-attachments/assets/e37288fb-85c8-485a-bc05-2e94492b33b1)
-![Screenshot 2025-04-14 075221](https://github.com/user-attachments/assets/9e61f9c2-d560-4e69-8d1a-e0446f801f45)
-![Screenshot 2025-04-19 135441](https://github.com/user-attachments/assets/e337f368-f9f8-489a-8884-48e236238368)
+## 💻 Teknologi yang Digunakan
+Frontend: HTML, CSS, JavaScript
 
+Backend & Database: Firebase Authentication, Firestore Database & Realtime Database
 
-## 🚀 Cara Menjalankan Proyek
-Clone repositori ini
+Tool Tambahan: ChatBot, Form Handling, Responsive Web Design
 
-Input Konfigurasi Firebase
+## 🧑‍🤝‍🧑 Tim Pengembang – Kelompok 1 PTI D
+Hamdi Ahnaf Aswana (23050974148) – Frontend Developer
 
-## 📂 Struktur Folder
+Achileus Danatha B (23050974122) – Backend Developer
 
-bash
+Muhammad Angga Pratama (23050974128) – Database Administrator
 
-Salin
+Refiansyah Galuh Ridha Pratama (23050974120) – Dokumentasi & Testing
 
-Edit
+## 🏫 Keterangan Akademik
+Website ini dikembangkan dalam rangka memenuhi tugas mata kuliah Pemrograman Web di Program Studi S1 Pendidikan Teknologi Informasi
 
-/hotel-project
+📍 Fakultas Teknik – Universitas Negeri Surabaya (UNESA)
 
-│
+🔗 Prodi: https://pendidikan-ti.ft.unesa.ac.id
 
-├── css/
+🔗 Fakultas: https://ft.unesa.ac.id
 
-├── js/
+## 🔗 Tautan Terkait
+Website D’hotel:
 
-├── img/
+Hosting Firebase:https://website-hotel-d0944.web.app
 
-├── admin/
-
-├── user/
-
-├── index.html
-
-├── ...
-
-## 📣 Catatan
-
-Proyek ini dikembangkan untuk keperluan pembelajaran dan sebagai syarat penilaian akhir pada mata kuliah Pemrograman Web. Seluruh fitur masih dalam pengembangan dan dapat terus diperbarui.
-
-https://pendidikan-ti.ft.unesa.ac.id/
+Hosting Github: https://hamdiahnafaswana.github.io/Project-Pemweb-Klmpk-1-PTID/index.html 
